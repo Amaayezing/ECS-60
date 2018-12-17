@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw3/bst/bst.h
+algorithm
+-
+iostream
+-
+memory
+-
+utility
+-
+stack
+-
+queue
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw3/bst/bst_tester.cc
+algorithm
+-
+iostream
+-
+random
+-
+vector
+-
+bst.h
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw3/bst/bst.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/shortest_path.dir/main.cpp.o CMakeFiles/shortest_path.dir/shortest_path.cc.o  -o shortest_path.exe -Wl,--out-implib,libshortest_path.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

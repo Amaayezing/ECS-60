@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/shortest_path/index_min_pq.h
+algorithm
+-
+sstream
+-
+utility
+-
+vector
+-
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/shortest_path/main.cpp
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/shortest_path/shortest_path.cc
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+numeric
+-
+functional
+-
+cmath
+-
+list
+-
+queue
+-
+index_min_pq.h
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/shortest_path/index_min_pq.h
+

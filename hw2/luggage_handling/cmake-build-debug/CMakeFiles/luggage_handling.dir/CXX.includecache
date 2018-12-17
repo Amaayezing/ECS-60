@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw2/luggage_handling/luggage_handling.cc
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+numeric
+-
+functional
+-
+cmath
+-
+list
+-
+queue
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw2/luggage_handling/main.cpp
+iostream
+-
+

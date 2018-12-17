@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/index_min_pq/index_min_pq.h
+algorithm
+-
+sstream
+-
+utility
+-
+vector
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/index_min_pq/index_min_pq_tester.cc
+algorithm
+-
+iostream
+-
+utility
+-
+vector
+-
+index_min_pq.h
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/index_min_pq/index_min_pq.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw5/index_min_pq/main.cpp
+iostream
+-
+

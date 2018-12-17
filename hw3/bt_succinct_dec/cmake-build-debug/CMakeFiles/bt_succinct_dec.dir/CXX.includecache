@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw3/bt_succinct_dec/binary_tree.h
+iostream
+-
+memory
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw3/bt_succinct_dec/bt_succinct_dec.cc
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+istream
+-
+binary_tree.h
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw3/bt_succinct_dec/binary_tree.h
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw3/bt_succinct_dec/main.cpp
+iostream
+-
+

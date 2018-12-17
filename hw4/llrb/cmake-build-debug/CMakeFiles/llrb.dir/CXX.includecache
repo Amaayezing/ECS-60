@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw4/llrb/llrb_map.h
+iostream
+-
+memory
+-
+string
+-
+utility
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw4/llrb/llrb_multimap.h
+iostream
+-
+memory
+-
+string
+-
+utility
+-
+vector
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw4/llrb/main.cpp
+iostream
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw4/llrb/map_tester.cc
+llrb_map.h
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw4/llrb/llrb_map.h
+vector
+-
+algorithm
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw4/llrb/multimap_tester.cc
+llrb_multimap.h
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw4/llrb/llrb_multimap.h
+algorithm
+-
+iostream
+-
+vector
+-
+

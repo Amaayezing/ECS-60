@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw1/main.cpp
+iostream
+-
+vector
+-
+string
+-
+chrono
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+numeric
+-
+functional
+-
+cmath
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw1/vector.cc
+iostream
+-
+vector
+-
+string
+-
+chrono
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+numeric
+-
+functional
+-
+cmath
+-
+
+/cygdrive/c/Users/maaye/Desktop/ECS 60 Porquet/hw1/vector_search.cc
+iostream
+-
+vector
+-
+string
+-
+chrono
+-
+fstream
+-
+cstring
+-
+algorithm
+-
+numeric
+-
+functional
+-
+cmath
+-
+

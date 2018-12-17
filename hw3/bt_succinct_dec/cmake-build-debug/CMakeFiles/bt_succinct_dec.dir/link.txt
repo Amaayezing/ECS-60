@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/bt_succinct_dec.dir/main.cpp.o CMakeFiles/bt_succinct_dec.dir/bt_succinct_dec.cc.o  -o bt_succinct_dec.exe -Wl,--out-implib,libbt_succinct_dec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

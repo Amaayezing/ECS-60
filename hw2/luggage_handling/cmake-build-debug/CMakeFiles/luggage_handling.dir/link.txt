@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/luggage_handling.dir/main.cpp.o CMakeFiles/luggage_handling.dir/luggage_handling.cc.o  -o luggage_handling.exe -Wl,--out-implib,libluggage_handling.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
